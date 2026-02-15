@@ -1,9 +1,3 @@
----
-layout: default
-title: Home
-nav_order: 1
----
-
 # TMP Link Manager Pro
 
 **Professional Hyperlink System for TextMeshPro**
